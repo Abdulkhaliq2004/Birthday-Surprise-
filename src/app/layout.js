@@ -16,6 +16,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${kalam.className} antialiased bg-black select-none`}>
+
         
         {/* GLOBAL MUSIC COMPONENT */}
         <MusicPlayer />

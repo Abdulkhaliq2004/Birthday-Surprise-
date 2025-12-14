@@ -83,14 +83,14 @@ export default function PhotosScreen({ onNext }) {
 
   // IMPORTANT: using .jpg because your files in public/images are .jpg
   const photos = [
-    { src: "/images/1.jpg", caption: "Our beautiful moment ❤️" },
-    { src: "/images/2.jpg", caption: "Your smile lights everything ✨" },
-    { src: "/images/3.jpg", caption: "My favourite view is you 💕" },
-    { src: "/images/4.jpg", caption: "Forever us 🤍" },
-    { src: "/images/5.jpg", caption: "A memory I never want to forget 🌸" },
-    { src: "/images/6.jpg", caption: "This day was special 💫" },
+    { src: "/images/1.jpg", caption: "A face my eyes never get    bored of ❤️"  },
+    { src: "/images/2.jpg", caption: "My Happy Home 🏡❤️" },
+    { src: "/images/3.jpg", caption: "Life feels happier with you 💕" },
+    { src: "/images/4.jpg", caption: "IYKYK 🌚" },
+    { src: "/images/5.jpg", caption: "Us. Always. Forever. 💞" },
+    { src: "/images/6.jpg", caption: "I’d choose this walk every lifetime" },
     { src: "/images/7.jpg", caption: "You & Me, always 💖" },
-    { src: "/images/8.jpg", caption: "My heart belongs to you ❤️" },
+    { src: "/images/8.jpg", caption: "Comfort looks like this 🤍🫶" },
   ];
 
   return (

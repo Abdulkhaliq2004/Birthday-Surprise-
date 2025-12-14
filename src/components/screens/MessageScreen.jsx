@@ -89,12 +89,23 @@ export default function MessageScreen({ onNext }) {
         >
           <div className="h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-6 md:p-8 text-center">
             <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[420px] pr-2">
-              Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and
-              always. You have this special way of making everything around you brighter — your smile, your kindness,
-              and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises,
-              and moments that make your heart happy. You're truly one of a kind, and I just want you to know how
-              special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you
-              endless happiness, success, and all the sweet things life has to offer. 💗
+              Happy Birthday love ❤️ 
+              My BabyGirl 💕 My Sweetheart 💝 My Jaan and My EVERYTHING 🫶 
+              Today is your birthday but i am not there mujhe bahut bura lg rha hai ki mai waha nahi hu I truly wanted to celebrate your birthday and watch your eyes light up with joy
+              you know what mujhe kabhi kisi ke birthday ka intezaar nahi rehta jitna mai aapke birthday ka wait krta hu even apne birthday ka bhi nahi 
+              Yaar mujhe ye letter likhna bilkul nahi aata type hi nahi kr paa rha hu samajh hi nahi aa rha kya likhu aur writting bhi itni hi khrab hai 😭😂
+              you are my home 🏡❤️ My comfort zone My peace 🤍 You know what… when I’m with you, I become the happiest person in the world. Your happiness makes me happy, and your sadness touches my heart just the same so please aise roya mt kro na  bachha kisi dusro ke chakkar me apni in pyaari pyaari aankhon se aansu mt bahaya kro baby,aapka ye hasta hua chehra itna pyaara lgta hai🙈❤️
+              and jab khush hoti ho tab ki awaaz 🥰 aap na bachha hamesha khush raha kro because I Love You so much I love you Too much I love you much much 😂❤️
+              You know what? I feel so lucky to have you in this world. I truly feel like the luckiest person alive.🌏❤️
+              Woh jo tum kehti ho na kya hoga tere bina toh tumhe sach batau na toh tumhare bina kuchh nahi hoga mera i will be helples but ik you are not going anywhere😌❤️ 
+             It’s already been 2 years together, and many more to come ummm, I mean till my last breath.
+In these two years, I’ve seen so many sides of you, from 🥰 to 🌚 and I’ve learned so many things too… jaise nakhre karna 😂😂
+              I love iritating you mtlb mujhe bahut maza aata hai but fir kabhi kabhi fatt bhi jaati hai jab tu gussa hoti hai 😭😂
+              But jaisa bhi hu peechha toh nahi chhodunga "EITHER I WILL BE YOUR HUSBAND OR YOUR HUSBAND'S MURDERER"😂😂
+              Happy Birthday Again we will celebrate this birthday in grand ❤️🥳
+              Happy Birthday Again Babygirl❤️
+            
+              💗
             </p>
 
             <p className="text-[#301733] mt-4 text-sm md:text-base italic">— Yours, Abdul</p>
