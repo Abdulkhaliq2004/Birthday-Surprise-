@@ -39,7 +39,7 @@ export default function IntroScreen({ onNext }) {
             className="text-pretty text-4xl md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-pink-300 leading-tight"
             style={{ filter: "drop-shadow(0 0 20px rgba(255,105,180,0.45))" }}
           >
-            My Babygirl was born today🥰❤️
+            My Babygirl was born today❤️
           </h1>
 
           <p className="mt-4 text-xl text-pink-200 italic">
